@@ -1,0 +1,17 @@
+.footer {
+  background-color: #222;
+  color: #ffffff;
+  padding: 0.5em;
+  text-align: center;
+}
+
+
+
+.copy_right {
+  margin-top: 0 em;
+}
+
+.copy_right span {
+  font-weight: bold;
+  color: rgb(175, 22, 22);
+}
